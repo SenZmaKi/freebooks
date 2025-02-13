@@ -1,0 +1,20 @@
+<div class="overflow-auto">
+  <table>
+    <thead>
+      <tr>
+        <th scope="col">Title</th>
+        <th scope="col">Author</th>
+        <th scope="col">Genre</th>
+        <th scope="col">Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <%= render partial: "web/librarians/books/item",
+                 collection: books,
+                 as: :book
+      %>
+    </tbody>
+  </table>
+</div>
+
+<%== pagy_nav(pagy) %>

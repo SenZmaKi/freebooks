@@ -1,0 +1,6 @@
+<% flash.each do |type, message| %>
+  <article class="toast toast--fixed toast--<%= type %>" data-controller="toast" data-toast-target="toast">
+    <strong><%= message %></strong>
+    <button data-action="click->toast#close" aria-label="Close" rel="prev" title="Close" class="toast__close"></button>
+  </article>
+<% end %>

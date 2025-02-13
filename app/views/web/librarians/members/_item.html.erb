@@ -1,0 +1,13 @@
+<tr>
+  <td>
+    <%= member.email %>
+  </td>
+  <td>
+    <%= button_to "Show",
+                  web_librarians_member_borrowings_path(member),
+                  method: :get,
+                  class: "outline secondary",
+                  title: "Show member"
+    %>
+  </td>
+</tr>

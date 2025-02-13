@@ -6,7 +6,7 @@ Welcome to Freebooks!
 # Tooling
 
 ## Versions
-- **Ruby**: 3.4.1
+- **Ruby**: 3.3.1
 - **Rails**: 7.2.0.beta2
 
 ## Frontend
@@ -54,7 +54,7 @@ Below is a summary of the testing efforts:
 
 To get started, ensure that you have the following prerequisites installed on your system:
 
-- Ruby (version 3.4.1)
+- Ruby (version 3.3.1)
 - Rails (version 7.2.0.beta2)
 
 ### Setup

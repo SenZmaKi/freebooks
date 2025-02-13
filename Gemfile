@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "3.4.1"
+ruby "3.3.1"
 
 gem "rails", "~> 7.2.0.beta2"
 gem "action_policy"

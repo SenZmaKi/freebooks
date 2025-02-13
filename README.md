@@ -81,7 +81,7 @@
 
 # Introduction
 
-Welcome to Freebooks!
+Welcome to Freebooks! Here's a [video demo](https://drive.google.com/file/d/1y8to7xQJIoJ-50vnzOBVOYEsDSWMosJQ/view?usp=sharing) of the project.
 
 
 # Tooling

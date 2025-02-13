@@ -1,0 +1,135 @@
+a_game_of_thrones:
+  title: A Game of Thrones
+  author: george_rr_martin
+  genre: fantasy
+  isbn: 978-0553103540
+  total_copies: 10
+  available_copies: 9
+
+a_clash_of_kings:
+  title: A Clash of Kings
+  author: george_rr_martin
+  genre: fantasy
+  isbn: 978-0553108033
+  total_copies: 8
+  available_copies: 8
+
+a_storm_of_swords:
+  title: A Storm of Swords
+  author: george_rr_martin
+  genre: fantasy
+  isbn: 978-0553106633
+  total_copies: 8
+  available_copies: 8
+
+a_feast_for_crows:
+  title: A Feast for Crows
+  author: george_rr_martin
+  genre: fantasy
+  isbn: 978-0553801507
+  total_copies: 7
+  available_copies: 7
+
+a_dance_with_dragons:
+  title: A Dance with Dragons
+  author: george_rr_martin
+  genre: fantasy
+  isbn: 978-0553801477
+  total_copies: 9
+  available_copies: 9
+
+dune:
+  title: Dune
+  author: frank_herbert
+  genre: science_fiction
+  isbn: 978-0441013593
+  total_copies: 8
+  available_copies: 7
+
+the_da_vinci_code:
+  title: The Da Vinci Code
+  author: dan_brown
+  genre: mystery
+  isbn: 978-0307474278
+  total_copies: 7
+  available_copies: 6
+
+gone_girl:
+  title: Gone Girl
+  author: gillian_flynn
+  genre: thriller
+  isbn: 978-0307588371
+  total_copies: 5
+  available_copies: 4
+
+pride_and_prejudice:
+  title: Pride and Prejudice
+  author: jane_austen
+  genre: romance
+  isbn: 978-1503290563
+  total_copies: 12
+  available_copies: 11
+
+the_book_thief:
+  title: The Book Thief
+  author: markus_zusak
+  genre: historical_fiction
+  isbn: 978-0375842207
+  total_copies: 6
+  available_copies: 5
+
+it:
+  title: It
+  author: stephen_king
+  genre: horror
+  isbn: 978-1501142970
+  total_copies: 4
+  available_copies: 4
+
+sapiens:
+  title: "Sapiens: A Brief History of Humankind"
+  author: yuval_noah_harari
+  genre: non_fiction
+  isbn: 978-0062316097
+  total_copies: 10
+  available_copies: 0
+
+steve_jobs:
+  title: Steve Jobs
+  author: walter_isaacson
+  genre: biography
+  isbn: 978-1451648539
+  total_copies: 8
+  available_copies: 7
+
+the_fault_in_our_stars:
+  title: The Fault in Our Stars
+  author: john_green
+  genre: young_adult
+  isbn: 978-0525478812
+  total_copies: 10
+  available_copies: 9
+
+charlotte_s_web:
+  title: Charlotte's Web
+  author: eb_white
+  genre: children
+  isbn: 978-0061124952
+  total_copies: 15
+  available_copies: 14
+
+the_hobbit:
+  title: The Hobbit
+  author: jrr_tolkien
+  genre: adventure
+  isbn: 978-0547928227
+  total_copies: 9
+  available_copies: 8
+
+expired_book:
+  title: "Expired Book"
+  isbn: "978-0000000000"
+  total_copies: 5
+  available_copies: 4
+  author: unknown_author
+  genre: fiction
